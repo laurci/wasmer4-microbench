@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "benchmarks22",
+    "benchmarks4",
+    "wasm"
+]
+default-members = [
+    "benchmarks22",
+    "benchmarks4"
+]
